@@ -9,7 +9,7 @@ public class MainShop {
         Collection listShopPart = new ArrayList();
         listShopPart.add(new AquaShopPart());
         listShopPart.add(new SweetShopPart());
-        listShopPart.add(new MeatShopPart());
+
 
 
 
