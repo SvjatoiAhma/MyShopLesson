@@ -11,4 +11,6 @@ public abstract class Product implements Price, CanBeUsed{
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
+
+
 }

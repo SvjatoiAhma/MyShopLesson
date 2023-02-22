@@ -1,4 +1,5 @@
 package com.svjat.shop;
 
-public class Snickers extends SweetShopPart {
+public class Snickers extends SolidProduct {
+
 }

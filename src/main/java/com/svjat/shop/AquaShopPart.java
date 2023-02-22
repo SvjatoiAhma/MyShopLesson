@@ -1,9 +1,6 @@
 package com.svjat.shop;
 
-public class AquaShopPart extends Product implements Volume {
+public class AquaShopPart extends MainShop{
 
-    @Override
-    public void canBeUsed() {
 
-    }
 }
