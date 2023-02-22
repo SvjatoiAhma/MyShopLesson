@@ -11,7 +11,7 @@ public class MainShop {
         listShopPart.add(new SweetShopPart());
         listShopPart.add(new MeatShopPart());
 
-        System.out.println(listShopPart);
+
 
     }
 }
