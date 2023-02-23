@@ -1,6 +1,6 @@
 package com.svjat.shop;
 
-public abstract class Product implements Price, CanBeUsed{
+public abstract class Product implements Price{
 
     @Override
     public int hashCode() {
