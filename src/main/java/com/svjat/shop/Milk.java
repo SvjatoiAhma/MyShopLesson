@@ -1,5 +1,5 @@
 package com.svjat.shop;
 
-public class Milk extends AquaProduct {
+public class Milk extends MilkProduct implements Aqua {
 
 }
