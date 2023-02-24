@@ -1,5 +1,8 @@
 package com.svjat.shop;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 public abstract class Product implements Price{
 
     @Override
@@ -11,6 +14,9 @@ public abstract class Product implements Price{
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
+
+
+
 
 
 }
